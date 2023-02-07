@@ -1,5 +1,6 @@
 .env/
 kafka*/
+spark-warehouse/
 
 # REMOVE AFTER
 ds-academy/
