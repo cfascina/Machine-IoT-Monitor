@@ -1,8 +1,12 @@
 # TODO
 
+[] Executar o producer por um tempo determinado.
+
+[] Converter arquivos para .py.
+
 [] No Makefile, fixar versão do Kafka para executar os comandos.
 
-[] Remover pacotes desnecessários de requirements.txt
+[x] Remover pacotes desnecessários de requirements.txt
 
 [] Talvez seja necessário fazer as seguintes configurações:
 
