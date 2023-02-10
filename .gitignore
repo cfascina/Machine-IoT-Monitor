@@ -1,6 +1,5 @@
 .env/
 kafka*/
 spark-warehouse/
-
-# REMOVE AFTER
-ds-academy/
+logs/*
+!logs/*.csv
